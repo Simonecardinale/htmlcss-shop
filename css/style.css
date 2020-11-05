@@ -8,7 +8,8 @@
   width: 920px;
   margin: 0 auto;
 }
-.superiore {
+
+.section {
   background-color: rgb(200, 208, 187);
 }
 
@@ -27,6 +28,7 @@
 .img-container:nth-last-child(2) .sconto {
   background-color: red;
 }
+
 .heart {
   width: 100%;
   text-align: center;
