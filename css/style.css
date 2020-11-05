@@ -7,4 +7,11 @@
 .superiore {
   background-color: rgb(200, 208, 187);
   display: inline-block;
+  position: relative;
+}
+div > .sconto {
+  background-color: green;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
