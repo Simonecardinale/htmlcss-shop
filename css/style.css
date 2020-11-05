@@ -9,9 +9,13 @@
   display: inline-block;
   position: relative;
 }
-div > .sconto {
+.sconto {
   background-color: green;
   position: absolute;
   top: 0;
   right: 0;
+}
+
+.superiore:nth-last-child(2) .sconto {
+  background-color: red;
 }
